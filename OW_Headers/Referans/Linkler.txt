@@ -1,0 +1,9 @@
+DS18B20 ve MSP430
++http://www.mcu-turkey.com/msp430-uyg-33/
++http://320volt.com/msp430-ile-ds18b20-sicaklik-sensoru-kullanimi-uygulamalari/
++https://ozcanfatih.wordpress.com/2013/07/22/1-wire-iletisim-ve-ds18b20-uygulamasi/
++http://www.smallbulb.net/2012/238-1-wire-and-msp430
++https://www.maximintegrated.com/en/app-notes/index.mvp/id/162
+
+LCD Dökümanlarý
++http://www.instructables.com/id/Interfacing-16x2-LCD-with-msp430-launchpad-in-8-bi/
